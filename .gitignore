@@ -9,6 +9,7 @@
 !*.csv
 !*.txt
 !*.log
+!*.png
 
 # 4. Also, don't ignore the .gitignore file itself!
 !.gitignore
