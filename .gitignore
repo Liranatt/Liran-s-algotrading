@@ -1,0 +1,15 @@
+# PyCharm specific
+.idea/
+
+# Python virtual environment
+venv/
+*.env
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating System files
+.DS_Store
