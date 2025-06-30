@@ -1,0 +1,7 @@
+2025-06-30 14:48:14,312 - INFO - --- Starting New BACKTEST ---
+2025-06-30 14:48:14,312 - INFO - Output will be saved to: C:\Users\Liran\OneDrive\שולחן העבודה\my_trading_platform\backtests\run_2025-06-30_14-48-14
+2025-06-30 14:48:14,342 - INFO - Simulating from 2013-07-25 to 2025-06-27
+2025-06-30 14:48:15,600 - INFO - SIMULATED BUY: 285 of HPQ at $7.00 for roi_bot
+2025-06-30 14:51:04,423 - INFO - Backtest simulation finished. Processing results...
+2025-06-30 14:51:04,630 - INFO - Final portfolio value: $7,063.38
+2025-06-30 14:51:04,630 - INFO - --- BACKTEST Complete ---
