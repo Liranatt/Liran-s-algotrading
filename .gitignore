@@ -1,15 +1,14 @@
-# PyCharm specific
-.idea/
+# 1. Ignore everything by default
+*
 
-# Python virtual environment
-venv/
-*.env
+# 2. But do NOT ignore directories, so Git can see their contents
+!*/
 
-# Python cache and compiled files
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+# 3. And do NOT ignore these specific file types
+!*.py
+!*.csv
+!*.txt
+!*.log
 
-# Operating System files
-.DS_Store
+# 4. Also, don't ignore the .gitignore file itself!
+!.gitignore
